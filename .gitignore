@@ -1,0 +1,11 @@
+/values.yaml
+*.tgz
+
+aws-ebs-volumes
+awslambda
+geth
+medici-bot
+twitch-bot
+
+
+geth-config.toml
