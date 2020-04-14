@@ -1,2 +1,2 @@
-# Helm Chart Medici
-Definie Kubernetes Cluster.
+# Helm Chart Vulcan
+Define Vulcan Kubernetes Cluster.
