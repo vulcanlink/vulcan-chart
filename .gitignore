@@ -1,4 +1,6 @@
-/values.yaml
+values.yaml
+*.values.yaml
+
 *.tgz
 
 aws-ebs-volumes

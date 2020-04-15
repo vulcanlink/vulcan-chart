@@ -8,6 +8,9 @@ dependencies:
     - name: chainlink
       version: 0.1.0
       condition: chainlink.enabled
+    - name: chainlink-gas-updater
+      version: 0.1.0
+      condition: chainlink-gas-updater.enabled
     - name: geth
       version: 0.1.0
       condition: geth.enabled
